@@ -5,6 +5,11 @@
 - By Marcílio Correia
 .: Developed and modified through Digital Innovation One Bootcamp.
 
+![snake game](https://user-images.githubusercontent.com/49158754/86509950-ca734800-bde3-11ea-82cf-ad0dae8be380.png)
+
+![game_over](https://user-images.githubusercontent.com/49158754/86509953-cd6e3880-bde3-11ea-933a-55733dc1fd28.JPG)
+
+
 #### HTML code
 
 ```html
